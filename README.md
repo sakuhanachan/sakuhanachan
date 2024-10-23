@@ -1,6 +1,19 @@
-## Hi there 👋
+## sakuhana*
 
-<!--
+KatsuragiGroup's founder/owner
+
+## SNS list
+
+|Platform|Account|
+|:--:|:--:|
+|**Twitter (X)**|https://twitter.com/sakuhanachan|
+|**Misskey**|https://misskey.io/@sakuhanachan|
+|**Bluesky**|https://bsky.app/profile/sakuhanachan.bsky.social|
+|**Mastodon (Pawoo)**|https://pawoo.net/@sakuhanachan|
+|**Akkoma (Miraiverse)**|https://miraiverse.xyz/sakuhanachan|
+<!--## Hi there 👋
+
+
 **sakuhanachan/sakuhanachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
